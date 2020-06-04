@@ -1,0 +1,6 @@
+loginSerenity\tasks\Input.class
+loginSerenity\ui\InputBox.class
+loginSerenity\features\search\package-info.class
+loginSerenity\ui\LoginPage.class
+loginSerenity\features\search\SearchByKeywordStory.class
+loginSerenity\tasks\OpenTheApplication.class
